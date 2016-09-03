@@ -1,9 +1,9 @@
-//
+﻿//
 //  ShellSort.hpp
 //  MySort
 //
 //  Created by ShiyiLiang on 16/9/1.
-//  Copyright © 2016年 ShiyiLiang. All rights reserved.
+//  Copyright 漏 2016骞?ShiyiLiang. All rights reserved.
 //
 
 #ifndef ShellSort_h
