@@ -8,6 +8,7 @@
 
 #include <iostream>
 #include "ShellSort.h"
+#include "InsertionSort.h"
 
 int main(int argc, const char * argv[]) {
 	// insert code here...
@@ -16,7 +17,7 @@ int main(int argc, const char * argv[]) {
 	int array2[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 	int array3[10] = { 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 };
 
-	ShellSort(array, 10);
+	InsertionSort2(array, 10);
 
 	for (int i = 0; i < 10; i++)
 	{
